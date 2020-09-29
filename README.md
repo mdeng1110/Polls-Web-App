@@ -1,2 +1,2 @@
-# gitPractice
-# This repo is for practicing git commands. 
+# Polls Web App
+# This project involves using Django to make a Polls Web App.
